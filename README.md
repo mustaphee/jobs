@@ -2,13 +2,13 @@
 ### Remote Job Hunter BOT ###
 
 * Quick summary -
-The Treasure Hunter is designed to scrape and apply for remote job listings on a daily
+The Job Hunter is designed to scrape and apply for remote job listings on a daily
 * Version - 1.0
 
 ### How do I get set up? ###
 
 * Summary of set up - 
-The project requires Python 3. I assume you have Python3.x installed already
+The project requires Python 3.x, so I assume you have Python3.x installed already
 
 Setting up is quick and easy. Just run 
 ``` 
